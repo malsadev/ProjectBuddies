@@ -14,8 +14,12 @@ You can view a live demo here:
 Or preview some screenshots below:
 
 <!-- Replace with actual images -->
-![Homepage Screenshot](screenshots/homepage.png)  
-![Service Page Screenshot](screenshots/service-page.png)
+![Homepage Screenshot](screenshots/home_page.jpg)  
+![Service Page Screenshot](screenshots/search_page.jpg)
+![Service Page Screenshot](screenshots/bottom_page.png)
+![Service Page Screenshot](screenshots/job_page.jpg)
+![Service Page Screenshot](screenshots/Internationalization.jpg)
+
 
 ---
 
@@ -47,7 +51,8 @@ Or preview some screenshots below:
 - 🧩 **Modular Components**: Clean React component architecture for maintainability  
 
 ---
-
+## Folder Structure (Not up-to-date)
+TBD
 
 ## 🧪 Running Locally
 
@@ -57,3 +62,7 @@ To run this project on your local machine:
    ```bash
    git clone https://github.com/yourusername/projectbuddies.git
    cd projectbuddies
+   npm install
+   npm start
+   ```
+You can preview the website on http://localhost:3000
