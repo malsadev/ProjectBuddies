@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# 🛠️ ProjectBuddies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ProjectBuddies is an online platform designed to simplify the process of finding skilled professionals for a wide range of projects — residential, commercial, industrial, or public. Users can explore a wide selection of pre-defined service packages, compare prices, and connect with trusted professionals such as handymen, landscapers, plumbers, and more.
 
-## Available Scripts
+The platform serves as a reliable intermediary, offering a seamless and intuitive experience for all your project-related needs.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📸 Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+You can view a live demo here:  
+👉 [Live Demo Link](https://669b56f80171181a9eb7ceb7--classy-axolotl-d1e230.netlify.app/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Or preview some screenshots below:
 
-### `npm test`
+<!-- Replace with actual images -->
+![Homepage Screenshot](screenshots/homepage.png)  
+![Service Page Screenshot](screenshots/service-page.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🚀 Overview
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Browse a catalog of service offerings by category, specialty, or availability
+- Easily compare service packages with transparent pricing
+- Multilingual support for English and French (i18n)
+- Fast and responsive design suitable for mobile and desktop
+- Built for scalability and ease of use
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Built With
 
-### `npm run eject`
+- **React** – UI library for building the user interface
+- **Bootstrap / React-Bootstrap** – For responsive design and styled components
+- **i18next** – Internationalization (i18n) support for English and French
+- **Netlify** – Hosting platform for deployment
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📦 Functionality
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- 🔍 **Faceted Search**: Filter services by categories such as type, price, and availability  
+- 🌐 **Multilingual Interface**: Toggle between English and French languages  
+- 📱 **Responsive UI**: Optimized layout for both desktop and mobile users  
+- 🛒 **Pre-defined Packages**: View and select bundled services for quick browsing  
+- 🧩 **Modular Components**: Clean React component architecture for maintainability  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🧪 Running Locally
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To run this project on your local machine:
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/projectbuddies.git
+   cd projectbuddies
